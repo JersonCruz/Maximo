@@ -1,5 +1,5 @@
 'Jerson Isaac cruz Albarrán'
-'escribir un programa que '
+'escribir un programa que calcule el maximo común divisor (MCD) de dos enteros positivos.'
 def mcd (M,N):
     if N==0:
         return M
