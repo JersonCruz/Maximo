@@ -1,4 +1,4 @@
-
+'Jerson Isaac cruz Albarrán'
 def mcd (a,b):
     if b==0:
         return a
