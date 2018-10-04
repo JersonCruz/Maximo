@@ -1,9 +1,10 @@
 'Jerson Isaac cruz Albarrán'
-def mcd (a,b):
-    if b==0:
-        return a
+'escribir un programa que '
+def mcd (M,N):
+    if N==0:
+        return M
     else:
-        return mcd(b,a%b)
+        return mcd(N,M%N)
 
 num1 = int(input("Primer numero: "))
 num2 = int(input("Segundo numero: "))
